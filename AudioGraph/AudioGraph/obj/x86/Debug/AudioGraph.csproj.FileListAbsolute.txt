@@ -1,0 +1,8 @@
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\bin\x86\Debug\AudioGraph.exe
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\bin\x86\Debug\AudioGraph.pdb
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\obj\x86\Debug\AudioGraph.csprojResolveAssemblyReference.cache
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\obj\x86\Debug\AudioGraph.exe
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\obj\x86\Debug\AudioGraph.pdb
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\bin\x86\Debug\Content\zone_def.xnb
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraph\bin\x86\Debug\Content\cube.xnb

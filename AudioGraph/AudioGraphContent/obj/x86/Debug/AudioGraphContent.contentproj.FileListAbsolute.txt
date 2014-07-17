@@ -1,0 +1,1 @@
+C:\Users\johnogorman\Documents\GitHub\AudioGraph\AudioGraph\AudioGraphContent\obj\x86\Debug\AudioGraphContent.contentprojResolveAssemblyReference.cache
